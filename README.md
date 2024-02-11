@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning C#
-- 👯 I’m looking to collaborate on ...
+- 🌱 Perfil criado para armazenar códigos de cursos do SENAI: Desenvolvedor Java e Desenvolvedor C#
 
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Pronouns: she/her
 
 <div align="center">
   
